@@ -3,8 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
+  "homepage": "http://vipulpathak113.github.io/SwiggyClone",
   "dependencies": {
-    "core-js-compat": "^3.4.7"
+    "core-js-compat": "^3.4.7",
+    "gh-pages": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipulpathak113/SwiggyClone.git"
   },
   "scripts": {
     "test": "jest",
