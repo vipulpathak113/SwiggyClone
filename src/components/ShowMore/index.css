@@ -1,0 +1,20 @@
+.show-more {
+    position: relative;
+    background-color: #fff;
+    flex: 0 0 30%;
+    height: 292px;
+    display: flex;
+    top: 30px;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #e46d47;
+    transform: scale(0.8) translate(-92px, -25px);
+}
+
+.show-more-title {
+    font-size: 24px;
+    color:#e46d47;
+    cursor: pointer;
+    font-weight: 600;
+}
+

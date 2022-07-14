@@ -1,0 +1,27 @@
+
+:root {
+    height: 100%;
+    cursor: default;
+    font-family: gordita,Helvetica Neue,Helvetica,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+body {
+    background-color: #fff;
+    height: inherit;
+}
+
+#root {
+    height: inherit;
+}
+
+ul {
+    padding: 0px;
+    list-style: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
